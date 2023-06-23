@@ -1,8 +1,8 @@
 <?php
 //Connect MSSQL
-$servername = '203.158.254.86';
-$username = 'project_searchportfolio';
-$password = 'P@rtf@li@Project';
+$servername = 'IP';
+$username = 'username';
+$password = 'password';
 $dbname = 'STD_PORTFOLIO';
 
 try {
